@@ -1,2 +1,2 @@
 #let's Learn Git
-hi
+hi there!
