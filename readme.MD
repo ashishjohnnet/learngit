@@ -1,4 +1,2 @@
-#let's Learn Git
-hi there!
-dfjkzbjsbfjbd
-kaddu
+#Let's Learn Git
+hi there, kaddu!
